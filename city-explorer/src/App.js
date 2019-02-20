@@ -24,7 +24,7 @@ class App extends Component {
         yelp: [],
         meetups: [],
         movies: [],
-        trails: []
+        trails: [],
       }
     };
   }
