@@ -3,7 +3,7 @@ import React from 'react';
 export default function Form(props) {
   return (
     <form onSubmit={props.handleSubmit}>
-      <label htmlFor="city">Where Would You Like To Learn About?</label><br><br></br></br>
+      <label htmlFor="city">Where Would You Like To Learn About?</label><br></br><br></br>
       <input
         type="text"
         name="city"
