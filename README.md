@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![City Explorer Logo](./assets/city-explorer-logo.JPG)
+![City Explorer Logo](./city-explorer/assets/city-explorer-logo.JPG)
 
 # Lab 30: City Explorer 
 
