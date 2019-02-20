@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Links and Resources
 * [Repo](https://github.com/mattoattacko/city-explorer)
 * [Font-End](https://ykj0wqo5wx.codesandbox.io/)
-* [AWS] (xyz.com)
+* [AWS] (still-compiling-holy-crap-this-takes-forever.com)
 
 ## Available Scripts
 
