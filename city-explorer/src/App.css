@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 body {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   background-color: rgb(128, 122, 122);
 }
 
 header, form label, h3 {
-  font-family: 'Acme', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 h1 {
@@ -24,7 +24,7 @@ header p, main label {
 
 button {
   padding: 5px 15px;
-  background-color:#F19F4D;
+  background-color:rgb(9, 67, 134);
   border: 1px solid #4484CE;
 }
 
@@ -52,6 +52,8 @@ section * {
 span {
   font-weight: bold;
 }
+
+/* Using Ashley's idea to test this */ 
 
 /* Style the yelp images */
 div section:nth-child(2) img {
