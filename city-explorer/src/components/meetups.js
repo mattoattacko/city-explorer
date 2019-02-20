@@ -3,7 +3,7 @@ import React from 'react';
 const Meetups = props => {
   return (
     <section>
-      <h3>Results from the Meetup API</h3>
+      <h3>Local Meetup Results</h3>
       <ul className="meetups-results">
         {props.data &&
           props.data.map((item, key) => {

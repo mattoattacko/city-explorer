@@ -3,7 +3,7 @@ import React from 'react';
 const Yelp = props => {
   return (
     <section className="yelp-container">
-      <h3>Results from the Yelp API</h3>
+      <h3>Yummy Yelp Results!</h3>
       <ul className="yelp-results">
         {props.data &&
           props.data.map((item, key) => {

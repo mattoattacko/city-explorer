@@ -3,7 +3,7 @@ import React from 'react';
 const Movies = props => {
   return (
     <section className="movie-container">
-      <h3>Results from The Movie DB API</h3>
+      <h3>Wanna Catch a Movie?</h3>
       <ul className="movies-results">
         {props.data &&
           props.data.map((item, key) => {

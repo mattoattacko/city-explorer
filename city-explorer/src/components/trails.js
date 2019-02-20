@@ -3,7 +3,7 @@ import React from 'react';
 const Trails = props => {
   return (
     <section>
-      <h3>Results from the Hiking Project API</h3>
+      <h3>Lets Go Hiking!</h3>
       <ul className="trails-results">
         {props.data &&
           props.data.map((item, key) => {
