@@ -51,7 +51,7 @@ class App extends Component {
           yelp: yelp.body,
           meetups: meetups.body,
           movies: movies.body,
-          trails: trails.body
+          trails: trails.body,
         }
       });
     } catch (e) {
