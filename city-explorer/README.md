@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Links and Resources
 * [Repo](https://github.com/mattoattacko/city-explorer)
 * [Font-End](https://ykj0wqo5wx.codesandbox.io/)
-* [AWS] (xyz.com)
+* [AWS] (http://lab-30-city-explorer.s3-website.us-east-2.amazonaws.com/)
 
 ## Available Scripts
 
